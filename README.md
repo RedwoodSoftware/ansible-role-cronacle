@@ -1,5 +1,5 @@
 # ansible-role-cronacle
-A role to download, install and upgrade Cronacle through Ansible.
+A role to download, install and upgrade [Redwood's](https://www.redwood.com) [Cronacle](https://www.cronacle.com) using [Ansible](https://www.ansible.com).
 
 ## Requirements
 
